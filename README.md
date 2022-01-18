@@ -17,7 +17,7 @@ _Welcome to the second project with JavaScript and jQuery assigned by [Epicodus]
 
 [The
 lesson](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/simple-effects)
-from [the curriculum](https://learnhowtoprogram.com) for this project was originally assigned for pair programming during class time on Tuesday January 11th 2022. We completed the first pass and pushed it to Github Pages. [Here is Jace's version uploaded separately.](https://github.com/jcseeley/peek-a-boo) I went back through mine later alone starting on Monday the 17th to correct this README and check my knowledge. Check out more of our work at:
+from [the curriculum](https://learnhowtoprogram.com) for this project was originally assigned for pair programming during class time on Tuesday January 11th 2022. We completed the first pass and pushed it to Github Pages. [Here is Jace's version uploaded separately](https://github.com/jcseeley/peek-a-boo). I went back through mine later alone starting on Monday the 17th to correct this README and validate my knowledge. Check out more of our work at:
 
  * https://github.com/k9w
  * https://github.com/jcseeley
