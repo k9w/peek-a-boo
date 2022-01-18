@@ -1,45 +1,44 @@
-# _Vacation Site_
+# _First JavaScript project with jQuery_
 
-#### By
+#### By _**Kevin Williams**_ _and_ _**Jace Seeley**_
 
-- _**Kevin Williams <https://github.com/k9w>**_
-- _**Jase Seeley <jcseeley31590@yahoo.com>**_
-
-#### _Our first project with jQuery from _
+#### _Peek-a-Boo_
 
 ## Technologies Used
 
-- _Javascript_
-- _jQuery_
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _jQuery_
 
 ## Description
 
-_This is the first Javascript and jQuery page assigned for pair programming on Tuesday January 11th 2022 at
-[Epicodus](https://epicodus.com)._
+_Welcome to the second project with JavaScript and jQuery assigned by [Epicodus](https://epicodus.com)._
 
-_From [our curriculum](https://learnhowtoprogram.com), the assignment:_
-- 
+[The
+lesson](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/simple-effects)
+from [the curriculum](https://learnhowtoprogram.com) for this project was originally assigned for pair programming during class time on Tuesday January 11th 2022. We completed the first pass and pushed it to Github Pages. [Here is Jace's version uploaded separately.](https://github.com/jcseeley/peek-a-boo) I went back through mine later alone starting on Monday the 17th to correct this README and check my knowledge. Check out more of our work at:
 
-_You can find more of our work at:_
+ * https://github.com/k9w
+ * https://github.com/jcseeley
 
-* https://github.com/k9w
-* https://github.com/jcseeley
 
 ## Setup/Installation Requirements
 
-- _Live site: <https://k9w.github.io/vacation-site>_
-- _To contribute, clone the repo from:_
-- _<https://github.com/k9w/vacation-site>_
+* _Visit the live site at https://k9w.github.io/peek-a-boo_
+* _Or clone the repo and open index.html in a browser._
+
 
 ## Known Bugs
+
+_For any problems, please file an issue on Github. Pull Requests welcome._
 
 - _No known issues yet._
 - _Please report any you find._
 
+
 ## License
 
-[ISC](https://choosealicense.com/licenses/isc}
+[ISC](https://choosealicense.com/licenses/isc)
 
-_For any problems, please file an issue on Github. Pull Requests welcome._
-
-Copyright (c) _2022_ _Kevin Williams_
+Copyright (c) _2022_ _Kevin Williams_ _and_ _Jace Seeley_
